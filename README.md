@@ -1,5 +1,7 @@
 # Formula One SQL Analytics Project
 
+We have taken data from kaggle - Chinese Formula One Grand Prix 2025. Link- https://www.kaggle.com/datasets/umerhaddii/formula-1-chinese-grand-prix-2025
+
 ## Project Overview
 This project focuses on analyzing Formula One race data using SQL queries to evaluate driver performance, lap consistency, tyre management, race pace trends, and strategy effectiveness.
 
